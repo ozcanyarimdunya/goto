@@ -33,7 +33,7 @@ rubies /home/iridakos/.rvm/rubies
 ### Via script
 Clone the repository and run the install script as super user or root:
 ```bash
-git clone https://github.com/iridakos/goto.git
+git clone https://github.com/ozcanyarimdunya/goto.git
 cd goto
 sudo ./install
 ```
@@ -264,7 +264,7 @@ bashcompinit
 
 ## Contributing
 
-1. Fork it ( https://github.com/iridakos/goto/fork )
+1. Fork it ( https://github.com/ozcanyarimdunya/goto/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
