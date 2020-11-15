@@ -32,7 +32,7 @@ goto()
 
   if [ -z "$1" ]; then
     # display usage and exit when no args
-    _goto_usage
+    _goto_list_aliases
     return
   fi
 
